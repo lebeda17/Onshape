@@ -4,11 +4,11 @@ Tento repozitář obsahuje přeloženou dokumentaci programu Onshape, který vyu
 
 ## Související projekty
 
-- **GitHub Rozcestník (Lebeda-Repo)**  
+- 🛠️**GitHub Rozcestník (Lebeda-Repo)**  
   Centrální repozitář všech mých projektů.  
   🔗 [Otevřít](https://github.com/lebeda17/Lebeda-Repo)
 
-- **Konfigurace PrusaSliceru**  
+- 🖨️**Konfigurace PrusaSliceru**  
   Repozitář s aktuálními konfiguracemi pro PrusaSlicer.  
   🔗 [Otevřít](https://github.com/lebeda17/Konfigurace-Prusasliceru/releases)
 
