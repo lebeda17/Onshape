@@ -1,6 +1,6 @@
 # 📖 Onshape dokumentace
 
-Tento repozitář obsahuje přeloženou dokumentaci programu Onshape [(Odkaz zde)](https://cad.onshape.com/help), který využívám při CAD modelování a 3D tisku.
+Tento repozitář obsahuje přeloženou dokumentaci programu Onshape ([Odkaz zde](https://cad.onshape.com/help/Content/EnterpriseHelp/Content/home.htm)), který využívám při CAD modelování a 3D tisku.
 
 ## Související projekty
 
